@@ -20,7 +20,7 @@ $log->lfile($LOG_PATH);
 
 $contract_addr = '0xfc476d1573a55f0387462b04f732a6cdc295bcc6';
 $holder_addr = '0x1c2F35d669e655a023c3B1884728b70014d309ae';
-$holder_addr_private = '23f69bc3fa433a5af474d1afc87173a39205c2718dc4fa0c03163a739407b091';
+$holder_addr_private = 'xxxxxx';
 
 //check Request Method
 $method = $_SERVER['REQUEST_METHOD'];
